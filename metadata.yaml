@@ -1,0 +1,38 @@
+_repo: Helenan-perheKertomus-Romasta-ensim-iselt--vuosisadalta_24511
+_version: 0.1.0
+alternative_title: 'Helena''s household: a tale of Rome in the first century. Finnish'
+contributor:
+  translator:
+    agent_name: Churberg, Waldemar
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '7860'
+    url: http://www.gutenberg.org/2009/agents/7860
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charles, Elizabeth Rundle
+    alias: Charles, Elisabeth Rundle
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '25999'
+    url: http://www.gutenberg.org/2009/agents/25999
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Charles
+description: ''
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24511'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Fiction'
+- !lcc 'PR'
+title: 'Helenan perhe
+
+  Kertomus Romasta ensimäiseltä vuosisadalta'
+url: http://www.gutenberg.org/ebooks/24511
